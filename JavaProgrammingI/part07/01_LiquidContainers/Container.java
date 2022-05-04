@@ -1,5 +1,5 @@
 public class Container {
-    int amount;
+    private int amount;
     
     public Container() {
         this.amount = 0;
